@@ -1,5 +1,11 @@
 # File System Assignment
 
+| **Name**        | Somyajeet Singh     |
+| --------------- | ------------------- |
+| **Cohort**      | Larry Page          |
+| **Roll Number** | 150096725043        |
+| **Subject**     | Backend Development |
+
 ## Assignment Explanation
 
 This project demonstrates basic file operations in Node.js using the `fs` module.
