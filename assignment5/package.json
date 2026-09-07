@@ -1,0 +1,14 @@
+{
+  "name": "express-basics-assignment",
+  "version": "1.0.0",
+  "description": "Basic Express routes assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Somyajeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
