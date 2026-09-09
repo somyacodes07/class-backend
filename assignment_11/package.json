@@ -1,0 +1,17 @@
+{
+  "name": "assignment_11",
+  "version": "1.0.0",
+  "description": "Teacher and Student Registration Using Express.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Somyajeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "npm:bcryptjs@^2.4.3",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
