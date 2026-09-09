@@ -1,0 +1,15 @@
+{
+  "name": "assignment_10",
+  "version": "1.0.0",
+  "description": "Store Data in Firebase Firestore Using Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Somyajeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "firebase-admin": "^12.0.0"
+  }
+}
