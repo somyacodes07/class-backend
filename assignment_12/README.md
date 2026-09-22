@@ -148,3 +148,20 @@ Server running on port 3000
 5. **Test 5 — Access Profile with Valid Token:**
    - Send `GET http://localhost:3000/profile` with header `Authorization: Bearer <COPIED_TOKEN>`.
    - Status: `200 OK`.
+
+---
+
+## Screenshots
+
+### 1. Thunder Client: POST /register (User Registration)
+![Register](screenshots/thunder_register.png)
+
+### 2. Thunder Client: POST /login (Login & Token Receipt)
+![Login](screenshots/thunder_login.png)
+
+### 3. Thunder Client: GET /profile (Without Token - 401 Unauthorized)
+![Profile Unauthorized](screenshots/thunder_profile_unauthorized.png)
+
+### 4. Thunder Client: GET /profile (With Valid Bearer Token - 200 OK)
+![Profile Authorized](screenshots/thunder_profile_authorized.png)
+

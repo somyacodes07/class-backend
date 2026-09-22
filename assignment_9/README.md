@@ -146,3 +146,17 @@ Server is running on http://localhost:3000
     "error": "..."
   }
   ```
+
+---
+
+## Screenshots
+
+### 1. Terminal Server & MongoDB Connected
+![Terminal Server](screenshots/terminal_server.png)
+
+### 2. Thunder Client: PATCH /api/users/:id (Update User)
+![Thunder Client Update User](screenshots/thunder_patch_user.png)
+
+### 3. Thunder Client: DELETE /api/users/:id (Delete User)
+![Thunder Client Delete User](screenshots/thunder_delete_user.png)
+

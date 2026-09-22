@@ -96,3 +96,14 @@ Server is running on http://localhost:3000
   ]
 }
 ```
+
+---
+
+## Screenshots
+
+### 1. Terminal Server & Firebase Initialized
+![Terminal Server](screenshots/terminal_server.png)
+
+### 2. Thunder Client: POST /api/users (Stored in Firestore)
+![Thunder Client Add User](screenshots/thunder_add_user.png)
+

@@ -30,4 +30,6 @@ node index.js
 
 ## Output Screenshots
 
-![output](image.png)
+### Terminal Execution Output
+![Terminal Output](screenshots/terminal_run.png)
+

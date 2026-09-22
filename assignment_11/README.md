@@ -115,3 +115,14 @@ Server is running on http://localhost:3000
 - Passwords are automatically hashed using **bcrypt** before being persisted in MongoDB.
 - Validation checks verify that all required fields are present in the request body before processing.
 - Duplicate email registrations are rejected with a 400 Bad Request error.
+
+---
+
+## Screenshots
+
+### 1. Thunder Client: POST /teacher/register
+![Teacher Registration](screenshots/thunder_teacher_register.png)
+
+### 2. Thunder Client: POST /student/register
+![Student Registration](screenshots/thunder_student_register.png)
+

@@ -41,3 +41,17 @@ GET /about
 GET /user/john
 GET /search?name=john&role=developer
 ```
+
+---
+
+## Screenshots
+
+### 1. Terminal Route Logger Output
+![Terminal Logger](screenshots/terminal_logger.png)
+
+### 2. Thunder Client: GET /product/:id/:category
+![Thunder Client Product](screenshots/thunder_product.png)
+
+### 3. Thunder Client: GET /search (Query Parameters)
+![Thunder Client Search](screenshots/thunder_search.png)
+

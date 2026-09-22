@@ -59,3 +59,17 @@ GET /api/students 9/7/2026, 10:30:45 AM
 GET /about 9/7/2026, 10:31:20 AM
 GET /products - 4 ms
 ```
+
+---
+
+## Screenshots
+
+### 1. Terminal Middleware Logging Output
+![Terminal Middleware](screenshots/terminal_middleware.png)
+
+### 2. Thunder Client: GET /api/students (Router Middleware)
+![Thunder Client Students](screenshots/thunder_students.png)
+
+### 3. Thunder Client: GET /products (Response Time Middleware)
+![Thunder Client Products](screenshots/thunder_products.png)
+

@@ -96,3 +96,17 @@ Server is running on http://localhost:3000
     }
   ]
   ```
+
+---
+
+## Screenshots
+
+### 1. Terminal Server & MongoDB Connected
+![Terminal Server](screenshots/terminal_server.png)
+
+### 2. Thunder Client: POST /api/users (Create User)
+![Thunder Client Create User](screenshots/thunder_create_user.png)
+
+### 3. Thunder Client: GET /api/users (Retrieve All Users)
+![Thunder Client Retrieve Users](screenshots/thunder_get_users.png)
+
